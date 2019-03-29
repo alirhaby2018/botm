@@ -1,6 +1,6 @@
 owner=455668853444313098
-prefix=3bas
-game=Break | 3basplay
+prefix=Y
+game=Break | Yplay
 stayinchannel=true
 songinstatus=false
 token=NTU5MzIwMDk3ODczOTg1NTM2.D3jrDQ.3-Ab5vpczf6cHfOgyPMnF-lR7V4
